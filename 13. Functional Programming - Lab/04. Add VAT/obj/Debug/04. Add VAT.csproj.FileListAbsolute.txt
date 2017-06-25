@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\04. Add VAT\bin\Debug\_04.Add_VAT.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\04. Add VAT\obj\Debug\_04.Add_VAT.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\04. Add VAT\obj\Debug\_04.Add_VAT.pdb

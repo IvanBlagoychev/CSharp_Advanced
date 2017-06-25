@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\03. First Name\bin\Debug\_03.First_Name.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\03. First Name\obj\Debug\_03.First_Name.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\03. First Name\obj\Debug\_03.First_Name.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\bin\Debug\_11.The_PRFM.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\bin\Debug\_11.The_PRFM.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\bin\Debug\_11.The_PRFM.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\obj\Debug\11. The PRFM.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\obj\Debug\_11.The_PRFM.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\11. The PRFM\obj\Debug\_11.The_PRFM.pdb

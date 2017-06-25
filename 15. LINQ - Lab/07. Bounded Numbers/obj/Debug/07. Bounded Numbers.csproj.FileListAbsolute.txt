@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\07. Bounded Numbers\bin\Debug\_07.Bounded_Numbers.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\07. Bounded Numbers\obj\Debug\_07.Bounded_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\07. Bounded Numbers\obj\Debug\_07.Bounded_Numbers.pdb

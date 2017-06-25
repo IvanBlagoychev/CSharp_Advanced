@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\bin\Debug\_11.Students_Joined_to_Specialties.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\obj\Debug\11. Students Joined to Specialties.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\obj\Debug\_11.Students_Joined_to_Specialties.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\11. Students Joined to Specialties\obj\Debug\_11.Students_Joined_to_Specialties.pdb

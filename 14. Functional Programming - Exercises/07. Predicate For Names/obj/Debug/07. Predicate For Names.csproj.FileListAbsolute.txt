@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.pdb

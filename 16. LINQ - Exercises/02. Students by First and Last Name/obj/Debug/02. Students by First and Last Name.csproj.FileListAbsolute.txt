@@ -1,0 +1,5 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\02. Students by First and Last Name\bin\Debug\_02.Students_by_First_and_Last_Name.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\02. Students by First and Last Name\obj\Debug\_02.Students_by_First_and_Last_Name.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\02. Students by First and Last Name\obj\Debug\_02.Students_by_First_and_Last_Name.pdb

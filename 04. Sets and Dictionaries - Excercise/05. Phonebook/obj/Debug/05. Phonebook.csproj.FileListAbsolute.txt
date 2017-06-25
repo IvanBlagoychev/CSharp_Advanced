@@ -1,0 +1,5 @@
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\05. Phonebook\bin\Debug\_05.Phonebook.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\05. Phonebook\bin\Debug\_05.Phonebook.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\05. Phonebook\bin\Debug\_05.Phonebook.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\05. Phonebook\obj\Debug\_05.Phonebook.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\05. Phonebook\obj\Debug\_05.Phonebook.pdb

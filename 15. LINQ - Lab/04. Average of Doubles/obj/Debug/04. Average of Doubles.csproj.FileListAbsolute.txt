@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\bin\Debug\_04.Average_of_Doubles.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\bin\Debug\_04.Average_of_Doubles.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\bin\Debug\_04.Average_of_Doubles.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\obj\Debug\04. Average of Doubles.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\obj\Debug\_04.Average_of_Doubles.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\04. Average of Doubles\obj\Debug\_04.Average_of_Doubles.pdb

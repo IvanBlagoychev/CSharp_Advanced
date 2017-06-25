@@ -1,0 +1,5 @@
+c:\users\hristina\documents\visual studio 2015\Projects\02. Sets and Dictionaries - Lab\04. AcademyGraduation\bin\Debug\_04.AcademyGraduation.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\02. Sets and Dictionaries - Lab\04. AcademyGraduation\bin\Debug\_04.AcademyGraduation.exe
+c:\users\hristina\documents\visual studio 2015\Projects\02. Sets and Dictionaries - Lab\04. AcademyGraduation\bin\Debug\_04.AcademyGraduation.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\02. Sets and Dictionaries - Lab\04. AcademyGraduation\obj\Debug\_04.AcademyGraduation.exe
+c:\users\hristina\documents\visual studio 2015\Projects\02. Sets and Dictionaries - Lab\04. AcademyGraduation\obj\Debug\_04.AcademyGraduation.pdb

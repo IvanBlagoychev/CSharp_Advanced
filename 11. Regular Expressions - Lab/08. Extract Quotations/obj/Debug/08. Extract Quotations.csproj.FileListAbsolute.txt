@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\08. Extract Quotations\bin\Debug\_08.Extract_Quotations.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\08. Extract Quotations\obj\Debug\_08.Extract_Quotations.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\08. Extract Quotations\obj\Debug\_08.Extract_Quotations.pdb

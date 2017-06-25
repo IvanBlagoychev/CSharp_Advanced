@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\bin\Debug\_04.Special_Words.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\obj\Debug\04. Special Words.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\obj\Debug\_04.Special_Words.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\04. Special Words\obj\Debug\_04.Special_Words.pdb

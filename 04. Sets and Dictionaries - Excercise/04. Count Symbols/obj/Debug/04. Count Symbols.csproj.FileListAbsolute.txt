@@ -1,0 +1,5 @@
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.pdb

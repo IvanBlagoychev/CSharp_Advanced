@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\bin\Debug\_04.Sort_Students.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\bin\Debug\_04.Sort_Students.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\bin\Debug\_04.Sort_Students.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\obj\Debug\04. Sort Students.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\obj\Debug\_04.Sort_Students.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\04. Sort Students\obj\Debug\_04.Sort_Students.pdb

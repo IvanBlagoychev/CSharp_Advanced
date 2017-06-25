@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\obj\Debug\01. Students by Group.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\bin\Debug\_01.Students_by_Group.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\bin\Debug\_01.Students_by_Group.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\bin\Debug\_01.Students_by_Group.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\obj\Debug\_01.Students_by_Group.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\01. Students by Group\obj\Debug\_01.Students_by_Group.pdb

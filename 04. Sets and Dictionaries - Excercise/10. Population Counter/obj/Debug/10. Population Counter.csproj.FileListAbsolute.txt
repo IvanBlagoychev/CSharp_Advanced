@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\bin\Debug\_10.Population_Counter.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\obj\Debug\10. Population Counter.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\obj\Debug\_10.Population_Counter.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\10. Population Counter\obj\Debug\_10.Population_Counter.pdb

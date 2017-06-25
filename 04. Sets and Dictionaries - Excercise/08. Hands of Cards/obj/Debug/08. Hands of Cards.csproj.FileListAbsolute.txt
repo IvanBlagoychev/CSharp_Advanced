@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\obj\Debug\08. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.pdb

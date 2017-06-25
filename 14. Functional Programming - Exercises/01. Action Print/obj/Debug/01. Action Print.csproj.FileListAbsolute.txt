@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\01. Action Print\bin\Debug\_01.Action_Print.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\01. Action Print\bin\Debug\_01.Action_Print.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\01. Action Print\bin\Debug\_01.Action_Print.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\01. Action Print\obj\Debug\_01.Action_Print.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\01. Action Print\obj\Debug\_01.Action_Print.pdb

@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\02. Sum Numbers\bin\Debug\_02.Sum_Numbers.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\02. Sum Numbers\obj\Debug\_02.Sum_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\02. Sum Numbers\obj\Debug\_02.Sum_Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\06. Find and Sum Integers\bin\Debug\_06.Find_and_Sum_Integers.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\06. Find and Sum Integers\obj\Debug\_06.Find_and_Sum_Integers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\06. Find and Sum Integers\obj\Debug\_06.Find_and_Sum_Integers.pdb

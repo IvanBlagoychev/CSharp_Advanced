@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\bin\Debug\_02.Parse_URLs.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\bin\Debug\_02.Parse_URLs.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\bin\Debug\_02.Parse_URLs.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\obj\Debug\_02.Parse_URLs.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\obj\Debug\_02.Parse_URLs.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\02. Parse URLs\obj\Debug\02. Parse URLs.csprojResolveAssemblyReference.cache

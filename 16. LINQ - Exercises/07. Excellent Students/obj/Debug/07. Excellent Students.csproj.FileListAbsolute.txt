@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\bin\Debug\_07.Excellent_Students.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\bin\Debug\_07.Excellent_Students.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\bin\Debug\_07.Excellent_Students.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\obj\Debug\07. Excellent Students.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\obj\Debug\_07.Excellent_Students.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\07. Excellent Students\obj\Debug\_07.Excellent_Students.pdb

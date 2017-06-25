@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\05. Min Even Number\bin\Debug\_05.Min_Even_Number.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\05. Min Even Number\obj\Debug\_05.Min_Even_Number.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\05. Min Even Number\obj\Debug\_05.Min_Even_Number.pdb

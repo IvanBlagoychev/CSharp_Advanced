@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\02. Vowel Count\bin\Debug\_02.Vowel_Count.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\02. Vowel Count\obj\Debug\_02.Vowel_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\02. Vowel Count\obj\Debug\_02.Vowel_Count.pdb

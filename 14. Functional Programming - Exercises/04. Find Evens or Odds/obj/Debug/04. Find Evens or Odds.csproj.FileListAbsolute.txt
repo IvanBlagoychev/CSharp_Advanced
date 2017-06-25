@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\04. Find Evens or Odds.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.pdb

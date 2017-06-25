@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\bin\Debug\_01.Match_Count.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\obj\Debug\01. Match Count.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\obj\Debug\_01.Match_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\01. Match Count\obj\Debug\_01.Match_Count.pdb

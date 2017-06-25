@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\02. Upper Strings\bin\Debug\_02.Upper_Strings.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\02. Upper Strings\obj\Debug\_02.Upper_Strings.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\02. Upper Strings\obj\Debug\_02.Upper_Strings.pdb

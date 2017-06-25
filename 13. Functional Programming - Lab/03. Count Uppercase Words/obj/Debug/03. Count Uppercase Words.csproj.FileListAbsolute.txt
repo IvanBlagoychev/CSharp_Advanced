@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\_03.Count_Uppercase_Words.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\_03.Count_Uppercase_Words.pdb

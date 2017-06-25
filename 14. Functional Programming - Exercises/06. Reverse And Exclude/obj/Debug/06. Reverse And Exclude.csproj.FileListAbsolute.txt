@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\06. Reverse And Exclude.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.pdb

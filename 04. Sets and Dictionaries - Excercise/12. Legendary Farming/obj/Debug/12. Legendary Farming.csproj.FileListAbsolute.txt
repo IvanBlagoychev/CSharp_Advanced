@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\bin\Debug\_12.Legendary_Farming.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\obj\Debug\12. Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\12. Legendary Farming\obj\Debug\_12.Legendary_Farming.pdb

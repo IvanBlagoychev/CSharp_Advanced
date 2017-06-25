@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb

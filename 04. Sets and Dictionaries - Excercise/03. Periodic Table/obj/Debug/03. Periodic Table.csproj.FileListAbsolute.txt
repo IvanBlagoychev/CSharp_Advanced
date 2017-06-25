@@ -1,0 +1,6 @@
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\obj\Debug\03. Periodic Table.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+c:\users\hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb

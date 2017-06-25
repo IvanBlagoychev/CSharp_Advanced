@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\_02.Knights_of_Honor.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\_02.Knights_of_Honor.pdb

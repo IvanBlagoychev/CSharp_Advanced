@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\bin\Debug\_09.User_Logs.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\bin\Debug\_09.User_Logs.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\bin\Debug\_09.User_Logs.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\obj\Debug\09. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\obj\Debug\_09.User_Logs.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\09. User Logs\obj\Debug\_09.User_Logs.pdb

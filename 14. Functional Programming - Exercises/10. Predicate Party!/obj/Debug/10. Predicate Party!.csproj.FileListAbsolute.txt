@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\obj\Debug\10. Predicate Party!.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

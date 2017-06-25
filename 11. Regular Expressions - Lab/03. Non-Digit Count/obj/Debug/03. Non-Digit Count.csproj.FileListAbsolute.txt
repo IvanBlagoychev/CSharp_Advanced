@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\03. Non-Digit Count\bin\Debug\_03.Non_Digit_Count.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\_03.Non_Digit_Count.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\03. Non-Digit Count\obj\Debug\_03.Non_Digit_Count.pdb

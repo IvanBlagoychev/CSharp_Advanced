@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\obj\Debug\09. List Of Predicates.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.pdb

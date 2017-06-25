@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\bin\Debug\_03.Parse_Tags.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\obj\Debug\_03.Parse_Tags.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\obj\Debug\_03.Parse_Tags.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\03. Parse Tags\obj\Debug\03. Parse Tags.csprojResolveAssemblyReference.cache

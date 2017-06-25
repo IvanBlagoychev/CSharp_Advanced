@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\bin\Debug\_07.Valid_Time.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\bin\Debug\_07.Valid_Time.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\bin\Debug\_07.Valid_Time.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\obj\Debug\07. Valid Time.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\obj\Debug\_07.Valid_Time.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\11. Regular Expressions - Lab\07. Valid Time\obj\Debug\_07.Valid_Time.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\bin\Debug\_13.Srabsko_Unleashed.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\obj\Debug\13. Srabsko Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\04. Sets and Dictionaries - Excercise\13. Srabsko Unleashed\obj\Debug\_13.Srabsko_Unleashed.pdb

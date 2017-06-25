@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\01. Take Two\bin\Debug\_01.Take_Two.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\01. Take Two\bin\Debug\_01.Take_Two.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\01. Take Two\bin\Debug\_01.Take_Two.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\01. Take Two\obj\Debug\_01.Take_Two.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\15. LINQ - Lab\01. Take Two\obj\Debug\_01.Take_Two.pdb

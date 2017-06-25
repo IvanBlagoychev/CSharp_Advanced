@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\05. Concatenate Strings\bin\Debug\_05.Concatenate_Strings.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\05. Concatenate Strings\obj\Debug\_05.Concatenate_Strings.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\09. Manual String Processing - Lab\05. Concatenate Strings\obj\Debug\_05.Concatenate_Strings.pdb

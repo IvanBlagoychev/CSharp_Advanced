@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\_01.Sort_Even_Numbers.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\_01.Sort_Even_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\_01.Sort_Even_Numbers.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\01. Sort Even Numbers.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\_01.Sort_Even_Numbers.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\13. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\_01.Sort_Even_Numbers.pdb

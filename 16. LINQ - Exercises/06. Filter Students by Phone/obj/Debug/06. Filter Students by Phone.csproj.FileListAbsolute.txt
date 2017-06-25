@@ -1,0 +1,5 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\06. Filter Students by Phone\bin\Debug\_06.Filter_Students_by_Phone.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\06. Filter Students by Phone\obj\Debug\_06.Filter_Students_by_Phone.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\16. LINQ - Exercises\06. Filter Students by Phone\obj\Debug\_06.Filter_Students_by_Phone.pdb

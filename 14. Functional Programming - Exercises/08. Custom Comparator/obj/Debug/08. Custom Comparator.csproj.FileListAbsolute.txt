@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\obj\Debug\08. Custom Comparator.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\14. Functional Programming - Exercises\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb
