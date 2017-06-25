@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
