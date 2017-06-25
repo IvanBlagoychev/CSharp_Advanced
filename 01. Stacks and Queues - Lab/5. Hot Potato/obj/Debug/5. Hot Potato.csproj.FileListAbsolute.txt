@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\_5.Hot_Potato.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\5. Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\_5.Hot_Potato.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\_5.Hot_Potato.pdb

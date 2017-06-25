@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\obj\Debug\07. Balanced Parenthesis.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.pdb

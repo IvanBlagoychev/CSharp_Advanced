@@ -1,0 +1,6 @@
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\1. Reverse Strings.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.exe
+c:\users\hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\bin\Debug\_6.Math_Potato.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\bin\Debug\_6.Math_Potato.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\bin\Debug\_6.Math_Potato.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\obj\Debug\6. Math Potato.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\obj\Debug\_6.Math_Potato.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\6. Math Potato\obj\Debug\_6.Math_Potato.pdb

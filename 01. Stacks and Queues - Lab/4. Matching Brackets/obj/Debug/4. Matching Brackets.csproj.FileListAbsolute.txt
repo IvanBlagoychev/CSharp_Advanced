@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\4. Matching Brackets.csprojResolveAssemblyReference.cache

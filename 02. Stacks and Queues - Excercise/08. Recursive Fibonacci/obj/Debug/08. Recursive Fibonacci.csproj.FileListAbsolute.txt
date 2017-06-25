@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\obj\Debug\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.pdb

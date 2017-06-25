@@ -1,0 +1,6 @@
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\obj\Debug\01. Reverse Numbers.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
+c:\users\hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb

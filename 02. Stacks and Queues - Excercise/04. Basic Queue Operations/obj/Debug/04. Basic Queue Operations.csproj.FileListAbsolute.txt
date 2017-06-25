@@ -1,0 +1,5 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.pdb

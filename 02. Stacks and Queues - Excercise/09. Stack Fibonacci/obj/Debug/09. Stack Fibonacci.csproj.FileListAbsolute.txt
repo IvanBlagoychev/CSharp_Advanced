@@ -1,0 +1,5 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\02. Stacks and Queues - Excercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb

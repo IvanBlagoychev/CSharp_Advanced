@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\2. Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.pdb
